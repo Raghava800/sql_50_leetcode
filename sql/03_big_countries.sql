@@ -1,0 +1,1 @@
+select name, population, area from big_countries where (area >= 3000000) OR (population >= 25000000)
