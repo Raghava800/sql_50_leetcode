@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/sql/01_recyclable_low_fat_products.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/02_find_customer_referee.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/sql/03_big_countries.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/sql/04_article_views_one.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/sql/05_invalid_tweets.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/sql/06_replace_employee_id _with_the_unique_identifier.sql" dialect="SQLite" />
+    <file url="PROJECT" dialect="SQLite" />
+  </component>
+</project>
